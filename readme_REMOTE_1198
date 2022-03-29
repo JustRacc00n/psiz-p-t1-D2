@@ -21,13 +21,6 @@ void sylwester_foerster(void)
 	Sylwester Foerster
 }
 
-<<<<<<< HEAD
-=================================================================================
-
-void bartosz_lewandowski(void)
-{
-	Bartosz Lewandowski
-=======
 
 void wojciech_jastrzebowski(void)
 {
@@ -67,5 +60,4 @@ void arkadiusz_bajura(void)
 void dawid_jankiewicz(void)
 {
 	Dawid Jankiewicz
->>>>>>> 68d9fa87054048f762c5c6fd91f0845b6f5d20dd
 }
